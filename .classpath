@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/couchbase-lite-java-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/couchbase-lite-java-core-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/couchbase-lite-java-native-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/couchbase-lite-java-native.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.0-beta2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/stateless4j-2.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
