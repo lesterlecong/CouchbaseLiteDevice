@@ -1,4 +1,4 @@
-package couchbaselite;
+package com.lesterprojects.couchbaselite;
 
 import com.couchbase.lite.*;
 import com.couchbase.lite.replicator.*;

@@ -1,9 +1,11 @@
-package couchbaselite;
+package com.lesterprojects.couchbaselite;
 
 import static org.junit.Assert.*;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import com.lesterprojects.couchbaselite.CouchbaseLite;
 
 public class CreateDocumentTest {
 	

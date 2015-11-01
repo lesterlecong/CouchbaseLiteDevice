@@ -1,4 +1,4 @@
-package couchbaselite;
+package com.lesterprojects.couchbaselite;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
